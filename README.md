@@ -3,13 +3,13 @@
 
 #### Top 150 interview questions
 EASY
-----
-26: removeDuplicates
---
-88: Merge sorted arrays 
---
-27: remove element from sorted array
---
-169: Majority element
---
+
+1) 26: removeDuplicates
+
+2)  88: Merge sorted arrays 
+
+3) 27: remove element from sorted array
+
+4) 169: Majority element
+
 
