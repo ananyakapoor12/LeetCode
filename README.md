@@ -11,5 +11,6 @@ EASY
 3) 27: remove element from sorted array
 
 4) 169: Majority element
+5) 121: Best time to buy and sell stock
 
 
