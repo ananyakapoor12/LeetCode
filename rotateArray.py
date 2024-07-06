@@ -7,7 +7,7 @@
         """
 
         n = len(nums)
-        k = k%n
+        k = k%n #if k>len of nums
 
         def reverse(start,end):
            while start<end:
@@ -15,9 +15,9 @@
               start+=1
               end-=1
         
-        reverse(0,n-1)
-        reverse(0,k-1)
-        reverse(k,n-1)
+        reverse(0,n-1) #reverse whole array 
+        reverse(0,k-1) #reverse first k elements
+        reverse(k,n-1) #reverse n-k elements
 
         print(nums)
 
